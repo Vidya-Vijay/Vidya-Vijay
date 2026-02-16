@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Vidya Vijay 👋</h1>
 
-<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Tableau</h3>
+<p align="center">
+Data Analyst | SQL • Python • Power BI • Tableau
+</p>
 
 <p align="center">
 Turning data into insights, and insights into decisions.
@@ -10,85 +12,67 @@ Turning data into insights, and insights into decisions.
 
 ## 🚀 About Me
 
-- 📊 Data Analyst passionate about solving business problems using data  
-- 🔍 Skilled in data cleaning, analysis, and visualization  
-- 📈 Focused on delivering **actionable insights**, not just reports  
-- 🎯 Currently seeking **Data Analyst / Business Analyst roles**  
+I am a data analyst focused on transforming raw data into meaningful insights that support business decision-making. My work involves data cleaning, exploratory analysis, and building dashboards that communicate findings clearly and effectively.
+
+I enjoy solving real-world problems using data — from identifying trends to improving processes and uncovering opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-### 👩‍💻 Languages & Databases
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🔧 Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)
+- **Languages:** `Python` `SQL`  
+- **Data Analysis:** `Pandas` `NumPy` `Excel`  
+- **Visualization:** `Power BI` `Tableau`  
+- **Other Tools:** `SPSS` `Google Analytics`  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-## 📌 Featured Projects
+<!--## 📊 Featured Projects
 
 ### 🚲 Cyclistic Bike-Share Analysis
-- Analyzed user behavior using SQL & Python  
+- Analyzed user behavior using SQL and Python  
 - Identified trends between casual riders and members  
-- Built dashboard for insights  
+- Delivered insights to support marketing strategy  
 
-🔗 [View Project](https://github.com/yourusername/project1)
+🔗 https://github.com/yourusername/project1
 
 ---
 
 ### 📈 Sales Performance Dashboard
-- Built interactive Power BI dashboard  
+- Built an interactive Power BI dashboard  
 - Tracked KPIs, revenue trends, and regional performance  
-- Improved decision-making visibility  
+- Improved visibility for decision-making  
 
-🔗 [View Project](https://github.com/yourusername/project2)
+🔗 https://github.com/yourusername/project2
 
 ---
 
 ### 🧹 Data Cleaning & EDA Project
-- Cleaned messy dataset using Python (Pandas)  
-- Performed EDA to uncover patterns and anomalies  
+- Cleaned and transformed raw datasets using Python  
+- Performed exploratory data analysis to uncover patterns  
 
-🔗 [View Project](https://github.com/yourusername/project3)
+🔗 https://github.com/yourusername/project3
 
----
+--- -->
 
-## 📈 What I’m Working On
+## 📈 Currently Working On
 
 - Building end-to-end data analysis projects  
-- Improving dashboard storytelling  
-- Strengthening SQL & Python for analytics  
+- Improving dashboard design and storytelling  
+- Strengthening SQL and Python for analytics  
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Career Goal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Seeking opportunities as a **Data Analyst / Business Analyst** where I can use data to drive business impact.
 
 ---
 
-⭐️ *If you like my work, consider giving a star!*
+<!-- ## 🤝 Connect
+
+LinkedIn: https://www.linkedin.com/in/your-linkedin/ -->
+
+---
+
+*If you find my work useful, feel free to explore my projects.*
