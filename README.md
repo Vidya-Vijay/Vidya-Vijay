@@ -71,8 +71,10 @@ Seeking opportunities as a **Data Analyst / Business Analyst** where I can use d
 
 <!-- ## 🤝 Connect
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin/ -->
+LinkedIn: https://www.linkedin.com/in/your-linkedin/ 
+--
+-->
 
----
+
 
 *If you find my work useful, feel free to explore my projects.*
