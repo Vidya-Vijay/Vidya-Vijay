@@ -67,12 +67,12 @@ I enjoy solving real-world problems using data — from identifying trends to im
 
 Seeking opportunities as a **Data Analyst / Business Analyst** where I can use data to drive business impact.
 
----
+
 
 <!-- ## 🤝 Connect
 
 LinkedIn: https://www.linkedin.com/in/your-linkedin/ 
---
+
 -->
 
 
